@@ -31,7 +31,7 @@
   "jest": {},
   "dependencies": {
     "@hookform/resolvers": "^0.1.1",
-    "@sendgrid/mail": "^7.2.6",
+    "@sendgrid/mail": "^8.0.0",
     "authenticare": "^0.4.7",
     "express": "^4.17.1",
     "grommet-icons": "^4.5.0",
