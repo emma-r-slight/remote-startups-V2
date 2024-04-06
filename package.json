@@ -54,7 +54,7 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^4.3.0",
     "dotenv": "^8.2.0",
-    "eslint": "^7.9.0",
+    "eslint": "^9.0.0",
     "eslint-config-eda": "^0.2.3",
     "file-loader": "^6.1.0",
     "grommet": "^2.15.0",
